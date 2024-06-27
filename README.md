@@ -3,3 +3,6 @@ This repository is part of "Predictive Analysis of Multidimensional Object Perce
 
 
 Paper will be linked later.
+
+Demo link: [Hugging Face Space](https://huggingface.co/spaces/pranayarishi/adhd-predictive-analysis)
+
