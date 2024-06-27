@@ -10,3 +10,6 @@ We built a demo for the study using Flask, and hosted it on AWS. There is a slig
 3. Install prerequisites ```pip install -r requirements.txt```
 4. Run the app ```python app.py```
 5. By default the app will run on port `80` in `debug` mode. Feel free to change it in app.py and run the app again
+
+
+If the `model.pth` is not cloned properly using git, feel free to use the [Google Drive Link](https://drive.google.com/drive/folders/1E0WjVu7bm83gzLAsfoesx8HwTroVhlWt?usp=sharing)
